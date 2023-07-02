@@ -9,4 +9,4 @@ To install the app on your computer, follow these steps:
 5. Follow the on-screen instructions to complete the installation.
 
 
-![Pic]([https://github.com/Samer-Ismael/FileSorting/blob/master/FileSorting/Sk%C3%A4rmbild%202023-07-02%20181459.png](https://github.com/Samer-Ismael/FileSorting/blob/main/FileSorting/Sk%C3%A4rmbild%202023-07-02%20181459.png)https://github.com/Samer-Ismael/FileSorting/blob/main/FileSorting/Sk%C3%A4rmbild%202023-07-02%20181459.png)
+![Pic](https://github.com/Samer-Ismael/FileSorting/blob/main/FileSorting/Sk%C3%A4rmbild%202023-07-02%20181459.png)
