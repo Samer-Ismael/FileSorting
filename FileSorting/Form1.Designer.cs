@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             folderBrowserDialog1 = new FolderBrowserDialog();
             PathText = new TextBox();
             SortBtn = new Button();
@@ -86,6 +87,7 @@
             Controls.Add(ExitBtn);
             Controls.Add(SortBtn);
             Controls.Add(PathText);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "Welcome to Sorting App ";
             Load += Form1_Load;
