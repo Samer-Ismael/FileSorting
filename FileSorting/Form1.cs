@@ -22,7 +22,7 @@ namespace FileSorting
             string path = PathText.Text.Trim();
             if (!string.IsNullOrEmpty(path))
             {
-                Sorting fileSorting= new Sorting(path);
+                Sorting fileSorting = new Sorting(path);
                 fileSorting.RunTheApp();
                 MessageBox.Show("Files sorted successfully!");
             }

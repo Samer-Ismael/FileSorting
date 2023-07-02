@@ -87,7 +87,7 @@
             Controls.Add(SortBtn);
             Controls.Add(PathText);
             Name = "Form1";
-            Text = "Welcome Sorting App ";
+            Text = "Welcome to Sorting App ";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
