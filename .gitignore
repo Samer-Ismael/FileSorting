@@ -363,5 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Allow setup.zip
-!setup.exe
-!Setup.vdproj
+!Setup.zip
