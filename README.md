@@ -7,7 +7,7 @@ To install the app on your computer, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the location where you cloned the files.
 3. Open the "setup" folder.
-4. Double-click on the "Setup" executable.
+4. Double-click on the "Setup".
 5. Follow the on-screen instructions to complete the installation.
 
 
