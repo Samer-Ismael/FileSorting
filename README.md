@@ -1,5 +1,7 @@
 # FileSorting
 
+This app will automatically sort your files in the Downloads folder, Desktop, or any other folder you consider cluttered into separate folders. It's a great way to keep things organized! Made it because i needed it :)
+
 To install the app on your computer, follow these steps:
 
 1. Clone the repository to your local machine.
