@@ -10,6 +10,6 @@ To install the app on your computer, follow these steps:
 4. Double-click on the "Setup".
 5. Follow the on-screen instructions to complete the installation.
 
-Option 2: Download the Setup.zip file and install the program on your computer startins from step 4
+Option 2: Download the Setup.zip file and install the program on your computer starting from step 4
 
 ![Pic](https://github.com/Samer-Ismael/FileSorting/blob/main/FileSorting/Sk%C3%A4rmbild%202023-07-02%20181459.png)
